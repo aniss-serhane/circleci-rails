@@ -1,6 +1,7 @@
 deployment:
   release:
     tag: /release-.*/
+    owner: aniss-serhane
     heroku:
       appname: circleci-rails
 
