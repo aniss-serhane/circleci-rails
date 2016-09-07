@@ -1,6 +1,6 @@
 deployment:
   release:
-    tag: /release-.*/
+    tag: release-.*
     branch: master
     heroku:
       appname: circleci-rails
